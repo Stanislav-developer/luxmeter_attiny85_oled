@@ -4,6 +4,9 @@
 
 ![Luxmeter](materials/Photo_2.jpg)
 
+# Схема пристрою
+![Circuit](materials/Circuit.png)
+
 ## Список деталей
 - ATtiny85  
 - OLED 128x32  
